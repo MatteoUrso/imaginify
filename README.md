@@ -614,5 +614,3 @@ module.exports = {
 ```
 
 </details>
-
-<details>
